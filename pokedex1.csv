@@ -1,0 +1,290 @@
+#
+#,Name
+#,Name,Type
+#,Name,Type,Total
+#,Name,Type,Total,HP
+#,Name,Type,Total,HP,Attack
+#,Name,Type,Total,HP,Attack,Defense
+#,Name,Type,Total,HP,Attack,Defense,Sp. Atk
+#,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def
+#,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+001
+001,Bulbasaur
+001,Bulbasaur,Grass Poison
+001,Bulbasaur,Grass Poison,318
+001,Bulbasaur,Grass Poison,318,45
+001,Bulbasaur,Grass Poison,318,45,49
+001,Bulbasaur,Grass Poison,318,45,49,49
+001,Bulbasaur,Grass Poison,318,45,49,49,65
+001,Bulbasaur,Grass Poison,318,45,49,49,65,65
+001,Bulbasaur,Grass Poison,318,45,49,49,65,65,45
+002
+002,Ivysaur
+002,Ivysaur,Grass Poison
+002,Ivysaur,Grass Poison,405
+002,Ivysaur,Grass Poison,405,60
+002,Ivysaur,Grass Poison,405,60,62
+002,Ivysaur,Grass Poison,405,60,62,63
+002,Ivysaur,Grass Poison,405,60,62,63,80
+002,Ivysaur,Grass Poison,405,60,62,63,80,80
+002,Ivysaur,Grass Poison,405,60,62,63,80,80,60
+003
+003,Venusaur
+003,Venusaur,Grass Poison
+003,Venusaur,Grass Poison,525
+003,Venusaur,Grass Poison,525,80
+003,Venusaur,Grass Poison,525,80,82
+003,Venusaur,Grass Poison,525,80,82,83
+003,Venusaur,Grass Poison,525,80,82,83,100
+003,Venusaur,Grass Poison,525,80,82,83,100,100
+003,Venusaur,Grass Poison,525,80,82,83,100,100,80
+003
+003,Venusaur Mega Venusaur
+003,Venusaur Mega Venusaur,Grass Poison
+003,Venusaur Mega Venusaur,Grass Poison,625
+003,Venusaur Mega Venusaur,Grass Poison,625,80
+003,Venusaur Mega Venusaur,Grass Poison,625,80,100
+003,Venusaur Mega Venusaur,Grass Poison,625,80,100,123
+003,Venusaur Mega Venusaur,Grass Poison,625,80,100,123,122
+003,Venusaur Mega Venusaur,Grass Poison,625,80,100,123,122,120
+003,Venusaur Mega Venusaur,Grass Poison,625,80,100,123,122,120,80
+004
+004,Charmander
+004,Charmander,Fire 
+004,Charmander,Fire ,309
+004,Charmander,Fire ,309,39
+004,Charmander,Fire ,309,39,52
+004,Charmander,Fire ,309,39,52,43
+004,Charmander,Fire ,309,39,52,43,60
+004,Charmander,Fire ,309,39,52,43,60,50
+004,Charmander,Fire ,309,39,52,43,60,50,65
+005
+005,Charmeleon
+005,Charmeleon,Fire 
+005,Charmeleon,Fire ,405
+005,Charmeleon,Fire ,405,58
+005,Charmeleon,Fire ,405,58,64
+005,Charmeleon,Fire ,405,58,64,58
+005,Charmeleon,Fire ,405,58,64,58,80
+005,Charmeleon,Fire ,405,58,64,58,80,65
+005,Charmeleon,Fire ,405,58,64,58,80,65,80
+006
+006,Charizard
+006,Charizard,Fire Flying
+006,Charizard,Fire Flying,534
+006,Charizard,Fire Flying,534,78
+006,Charizard,Fire Flying,534,78,84
+006,Charizard,Fire Flying,534,78,84,78
+006,Charizard,Fire Flying,534,78,84,78,109
+006,Charizard,Fire Flying,534,78,84,78,109,85
+006,Charizard,Fire Flying,534,78,84,78,109,85,100
+006
+006,Charizard Mega Charizard X
+006,Charizard Mega Charizard X,Fire Dragon
+006,Charizard Mega Charizard X,Fire Dragon,634
+006,Charizard Mega Charizard X,Fire Dragon,634,78
+006,Charizard Mega Charizard X,Fire Dragon,634,78,130
+006,Charizard Mega Charizard X,Fire Dragon,634,78,130,111
+006,Charizard Mega Charizard X,Fire Dragon,634,78,130,111,130
+006,Charizard Mega Charizard X,Fire Dragon,634,78,130,111,130,85
+006,Charizard Mega Charizard X,Fire Dragon,634,78,130,111,130,85,100
+006
+006,Charizard Mega Charizard Y
+006,Charizard Mega Charizard Y,Fire Flying
+006,Charizard Mega Charizard Y,Fire Flying,634
+006,Charizard Mega Charizard Y,Fire Flying,634,78
+006,Charizard Mega Charizard Y,Fire Flying,634,78,104
+006,Charizard Mega Charizard Y,Fire Flying,634,78,104,78
+006,Charizard Mega Charizard Y,Fire Flying,634,78,104,78,159
+006,Charizard Mega Charizard Y,Fire Flying,634,78,104,78,159,115
+006,Charizard Mega Charizard Y,Fire Flying,634,78,104,78,159,115,100
+007
+007,Squirtle
+007,Squirtle,Water 
+007,Squirtle,Water ,314
+007,Squirtle,Water ,314,44
+007,Squirtle,Water ,314,44,48
+007,Squirtle,Water ,314,44,48,65
+007,Squirtle,Water ,314,44,48,65,50
+007,Squirtle,Water ,314,44,48,65,50,64
+007,Squirtle,Water ,314,44,48,65,50,64,43
+008
+008,Wartortle
+008,Wartortle,Water 
+008,Wartortle,Water ,405
+008,Wartortle,Water ,405,59
+008,Wartortle,Water ,405,59,63
+008,Wartortle,Water ,405,59,63,80
+008,Wartortle,Water ,405,59,63,80,65
+008,Wartortle,Water ,405,59,63,80,65,80
+008,Wartortle,Water ,405,59,63,80,65,80,58
+009
+009,Blastoise
+009,Blastoise,Water 
+009,Blastoise,Water ,530
+009,Blastoise,Water ,530,79
+009,Blastoise,Water ,530,79,83
+009,Blastoise,Water ,530,79,83,100
+009,Blastoise,Water ,530,79,83,100,85
+009,Blastoise,Water ,530,79,83,100,85,105
+009,Blastoise,Water ,530,79,83,100,85,105,78
+009
+009,Blastoise Mega Blastoise
+009,Blastoise Mega Blastoise,Water 
+009,Blastoise Mega Blastoise,Water ,630
+009,Blastoise Mega Blastoise,Water ,630,79
+009,Blastoise Mega Blastoise,Water ,630,79,103
+009,Blastoise Mega Blastoise,Water ,630,79,103,120
+009,Blastoise Mega Blastoise,Water ,630,79,103,120,135
+009,Blastoise Mega Blastoise,Water ,630,79,103,120,135,115
+009,Blastoise Mega Blastoise,Water ,630,79,103,120,135,115,78
+010
+010,Caterpie
+010,Caterpie,Bug 
+010,Caterpie,Bug ,195
+010,Caterpie,Bug ,195,45
+010,Caterpie,Bug ,195,45,30
+010,Caterpie,Bug ,195,45,30,35
+010,Caterpie,Bug ,195,45,30,35,20
+010,Caterpie,Bug ,195,45,30,35,20,20
+010,Caterpie,Bug ,195,45,30,35,20,20,45
+011
+011,Metapod
+011,Metapod,Bug 
+011,Metapod,Bug ,205
+011,Metapod,Bug ,205,50
+011,Metapod,Bug ,205,50,20
+011,Metapod,Bug ,205,50,20,55
+011,Metapod,Bug ,205,50,20,55,25
+011,Metapod,Bug ,205,50,20,55,25,25
+011,Metapod,Bug ,205,50,20,55,25,25,30
+012
+012,Butterfree
+012,Butterfree,Bug Flying
+012,Butterfree,Bug Flying,395
+012,Butterfree,Bug Flying,395,60
+012,Butterfree,Bug Flying,395,60,45
+012,Butterfree,Bug Flying,395,60,45,50
+012,Butterfree,Bug Flying,395,60,45,50,90
+012,Butterfree,Bug Flying,395,60,45,50,90,80
+012,Butterfree,Bug Flying,395,60,45,50,90,80,70
+013
+013,Weedle
+013,Weedle,Bug Poison
+013,Weedle,Bug Poison,195
+013,Weedle,Bug Poison,195,40
+013,Weedle,Bug Poison,195,40,35
+013,Weedle,Bug Poison,195,40,35,30
+013,Weedle,Bug Poison,195,40,35,30,20
+013,Weedle,Bug Poison,195,40,35,30,20,20
+013,Weedle,Bug Poison,195,40,35,30,20,20,50
+014
+014,Kakuna
+014,Kakuna,Bug Poison
+014,Kakuna,Bug Poison,205
+014,Kakuna,Bug Poison,205,45
+014,Kakuna,Bug Poison,205,45,25
+014,Kakuna,Bug Poison,205,45,25,50
+014,Kakuna,Bug Poison,205,45,25,50,25
+014,Kakuna,Bug Poison,205,45,25,50,25,25
+014,Kakuna,Bug Poison,205,45,25,50,25,25,35
+015
+015,Beedrill
+015,Beedrill,Bug Poison
+015,Beedrill,Bug Poison,395
+015,Beedrill,Bug Poison,395,65
+015,Beedrill,Bug Poison,395,65,90
+015,Beedrill,Bug Poison,395,65,90,40
+015,Beedrill,Bug Poison,395,65,90,40,45
+015,Beedrill,Bug Poison,395,65,90,40,45,80
+015,Beedrill,Bug Poison,395,65,90,40,45,80,75
+015
+015,Beedrill Mega Beedrill
+015,Beedrill Mega Beedrill,Bug Poison
+015,Beedrill Mega Beedrill,Bug Poison,495
+015,Beedrill Mega Beedrill,Bug Poison,495,65
+015,Beedrill Mega Beedrill,Bug Poison,495,65,150
+015,Beedrill Mega Beedrill,Bug Poison,495,65,150,40
+015,Beedrill Mega Beedrill,Bug Poison,495,65,150,40,15
+015,Beedrill Mega Beedrill,Bug Poison,495,65,150,40,15,80
+015,Beedrill Mega Beedrill,Bug Poison,495,65,150,40,15,80,145
+016
+016,Pidgey
+016,Pidgey,Normal Flying
+016,Pidgey,Normal Flying,251
+016,Pidgey,Normal Flying,251,40
+016,Pidgey,Normal Flying,251,40,45
+016,Pidgey,Normal Flying,251,40,45,40
+016,Pidgey,Normal Flying,251,40,45,40,35
+016,Pidgey,Normal Flying,251,40,45,40,35,35
+016,Pidgey,Normal Flying,251,40,45,40,35,35,56
+017
+017,Pidgeotto
+017,Pidgeotto,Normal Flying
+017,Pidgeotto,Normal Flying,349
+017,Pidgeotto,Normal Flying,349,63
+017,Pidgeotto,Normal Flying,349,63,60
+017,Pidgeotto,Normal Flying,349,63,60,55
+017,Pidgeotto,Normal Flying,349,63,60,55,50
+017,Pidgeotto,Normal Flying,349,63,60,55,50,50
+017,Pidgeotto,Normal Flying,349,63,60,55,50,50,71
+018
+018,Pidgeot
+018,Pidgeot,Normal Flying
+018,Pidgeot,Normal Flying,479
+018,Pidgeot,Normal Flying,479,83
+018,Pidgeot,Normal Flying,479,83,80
+018,Pidgeot,Normal Flying,479,83,80,75
+018,Pidgeot,Normal Flying,479,83,80,75,70
+018,Pidgeot,Normal Flying,479,83,80,75,70,70
+018,Pidgeot,Normal Flying,479,83,80,75,70,70,101
+018
+018,Pidgeot Mega Pidgeot
+018,Pidgeot Mega Pidgeot,Normal Flying
+018,Pidgeot Mega Pidgeot,Normal Flying,579
+018,Pidgeot Mega Pidgeot,Normal Flying,579,83
+018,Pidgeot Mega Pidgeot,Normal Flying,579,83,80
+018,Pidgeot Mega Pidgeot,Normal Flying,579,83,80,80
+018,Pidgeot Mega Pidgeot,Normal Flying,579,83,80,80,135
+018,Pidgeot Mega Pidgeot,Normal Flying,579,83,80,80,135,80
+018,Pidgeot Mega Pidgeot,Normal Flying,579,83,80,80,135,80,121
+019
+019,Rattata
+019,Rattata,Normal 
+019,Rattata,Normal ,253
+019,Rattata,Normal ,253,30
+019,Rattata,Normal ,253,30,56
+019,Rattata,Normal ,253,30,56,35
+019,Rattata,Normal ,253,30,56,35,25
+019,Rattata,Normal ,253,30,56,35,25,35
+019,Rattata,Normal ,253,30,56,35,25,35,72
+019
+019,Rattata Alolan Rattata
+019,Rattata Alolan Rattata,Dark Normal
+019,Rattata Alolan Rattata,Dark Normal,253
+019,Rattata Alolan Rattata,Dark Normal,253,30
+019,Rattata Alolan Rattata,Dark Normal,253,30,56
+019,Rattata Alolan Rattata,Dark Normal,253,30,56,35
+019,Rattata Alolan Rattata,Dark Normal,253,30,56,35,25
+019,Rattata Alolan Rattata,Dark Normal,253,30,56,35,25,35
+019,Rattata Alolan Rattata,Dark Normal,253,30,56,35,25,35,72
+020
+020,Raticate
+020,Raticate,Normal 
+020,Raticate,Normal ,413
+020,Raticate,Normal ,413,55
+020,Raticate,Normal ,413,55,81
+020,Raticate,Normal ,413,55,81,60
+020,Raticate,Normal ,413,55,81,60,50
+020,Raticate,Normal ,413,55,81,60,50,70
+020,Raticate,Normal ,413,55,81,60,50,70,97
+020
+020,Raticate Alolan Raticate
+020,Raticate Alolan Raticate,Dark Normal
+020,Raticate Alolan Raticate,Dark Normal,413
+020,Raticate Alolan Raticate,Dark Normal,413,75
+020,Raticate Alolan Raticate,Dark Normal,413,75,71
+020,Raticate Alolan Raticate,Dark Normal,413,75,71,70
+020,Raticate Alolan Raticate,Dark Normal,413,75,71,70,40
+020,Raticate Alolan Raticate,Dark Normal,413,75,71,70,40,80
+020,Raticate Alolan Raticate,Dark Normal,413,75,71,70,40,80,77

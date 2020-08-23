@@ -1,0 +1,15 @@
+Hanif Yuli Abdillah P | hanif.uxlearn@gmail.com
+
+SOAL:
+Dari Database Chinook, Saya ingin mendapatkan/menampilkan 3 kolom
+Yaitu Nama Album, Nama Artis, dan Judul Lagu/Track
+Dengan Syarat
+• BAND Aerosmith
+• BAND AC/DC
+• Dimana untuk BAND AC/DC Nama Album yang ditampilkan adalah Let There Be
+Rock
+
+JAWABAN: 
+SELECT a.Title, b.Name, c.Name as 'track' 
+FROM albums a, artists b, tracks c 
+WHERE a.AlbumId in (4,5) AND a.ArtistId = b.ArtistId AND a.AlbumId = c.AlbumId

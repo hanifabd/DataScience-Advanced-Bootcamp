@@ -1,0 +1,22 @@
+invoices
+- invoiceid
+- invoicedate
+- customerid
+
+customers
+- fname
+- lname
+- city
+- customerid
+
+invoice_item
+- invoiceid
+- 
+
+SELECT a.InvoiceDate, b.FirstName || ' ' || b.LastName as name, b.Address, b.City, d.name as 'Song Title', e.Title, f.name
+FROM invoices a, customers b
+INNER JOIN invoice_items c on c.InvoiceId=a.InvoiceId
+INNER JOIN tracks d on d.TrackId=c.TrackId
+INNER JOIN albums e on e.AlbumId=d.AlbumId
+INNER JOIN artists f on f.ArtistId=e.ArtistId
+WHERE a.CustomerId=14 AND b.CustomerId=a.CustomerId AND a.InvoiceDate='2009-01-06 00:00:00'
